@@ -36,7 +36,7 @@
         1,
         1
       ],
-      "hidden": false,
+      "hidden": true,
       "imageUrl": ""
     },
     "ifc-product-254": {
@@ -321,7 +321,7 @@
         1,
         1
       ],
-      "hidden": false,
+      "hidden": true,
       "imageUrl": ""
     },
     "ifc-product-1608": {
@@ -340,7 +340,7 @@
         1,
         1
       ],
-      "hidden": false,
+      "hidden": true,
       "imageUrl": ""
     },
     "ifc-product-9464": {
@@ -397,7 +397,7 @@
         1,
         1
       ],
-      "hidden": false,
+      "hidden": true,
       "imageUrl": ""
     },
     "ifc-product-10586": {
@@ -12201,6 +12201,6 @@
     }
   },
   "custom": [],
-  "savedAt": "2026-07-22T23:41:23.797Z",
+  "savedAt": "2026-07-23T01:52:34.101Z",
   "note": "Fire pump room edit configuration. This file is read by GitHub Pages."
 }
