@@ -55,7 +55,7 @@
         1,
         1
       ],
-      "hidden": false,
+      "hidden": true,
       "imageUrl": ""
     },
     "ifc-product-316": {
@@ -188,7 +188,7 @@
         1,
         1
       ],
-      "hidden": false,
+      "hidden": true,
       "imageUrl": ""
     },
     "ifc-product-1230": {
@@ -11707,13 +11707,13 @@
     },
     "imported-fire-pump-1": {
       "position": [
-        -7.82,
-        0.72,
-        0.13
+        -7.785605970430652,
+        0.9200000000000002,
+        1.0793771909679486
       ],
       "rotation": [
         0,
-        0,
+        1.5533430342749535,
         0
       ],
       "scale": [
@@ -11726,13 +11726,13 @@
     },
     "imported-fire-pump-2": {
       "position": [
-        -6.02,
-        0.72,
-        0.13
+        -5.989224520985435,
+        0.9200000000000002,
+        1.080023730473805
       ],
       "rotation": [
         0,
-        0,
+        1.6929693744344996,
         0
       ],
       "scale": [
@@ -12201,6 +12201,6 @@
     }
   },
   "custom": [],
-  "savedAt": "2026-07-23T01:52:34.101Z",
+  "savedAt": "2026-07-23T01:54:17.796Z",
   "note": "Fire pump room edit configuration. This file is read by GitHub Pages."
 }
